@@ -19,11 +19,11 @@
           </li>
           {% if page.url == "/en/" or page.url == "/en/index.html" %}
             {% for link in site.data.navigation-en.main %}
-              <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+              <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}" target="_self">{{ link.title }}</a></li>
             {% endfor %}
           {% else %}
             {% for link in site.data.navigation.main %}
-              <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+              <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}" target="_self">{{ link.title }}</a></li>
             {% endfor %}
           {% endif %}
         </ul>
