@@ -6,15 +6,17 @@
 
 ### 新增文件：
 1. **`_pages/about-en.md`** - 英文版首页
-2. **`_includes/language-switcher.html`** - 语言切换组件
-3. **`assets/css/language-switcher.css`** - 语言切换器样式
-4. **`BILINGUAL_SETUP.md`** - 本说明文档
+2. **`_includes/language-switcher.html`** - 语言切换组件（页面内）
+3. **`_data/navigation-en.yml`** - 英文版导航配置
+4. **`assets/css/language-switcher.css`** - 语言切换器样式
+5. **`BILINGUAL_SETUP.md`** - 本说明文档
 
 ### 修改的文件：
 1. **`_config.yml`** - 网站标题改为中英文双语
-2. **`_data/navigation.yml`** - 修正导航链接并添加English入口
-3. **`_layouts/default.html`** - 集成语言切换组件
-4. **`_includes/head/custom.html`** - 添加CSS引用
+2. **`_data/navigation.yml`** - 修正中文版导航链接
+3. **`_includes/masthead.html`** - 修正左上角语言切换链接，支持中英文导航自动切换
+4. **`_layouts/default.html`** - 集成页面内语言切换组件
+5. **`_includes/head/custom.html`** - 添加CSS引用
 
 ## 🌐 页面访问地址
 
