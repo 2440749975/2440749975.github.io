@@ -30,13 +30,13 @@ My research interests include:
 - NDT Equipment Development
   
 
-<span class='anchor' id='-education'></span>
+<span class='anchor' id='education'></span>
 
 # 🎓 Education
 - *2016.06 - 2022.12*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> Huazhong University of Science and Technology, School of Mechanical Science and Engineering, Wuhan, Hubei, China, Ph.D. (Direct admission from bachelor's degree)
 - *2012.09 - 2016.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> Sichuan University, School of Manufacturing Science and Engineering, Chengdu, Sichuan, China, Bachelor's Degree
  
-<span class='anchor' id='-publications'></span>
+<span class='anchor' id='publications'></span>
 
 # 📝 Publications
 
@@ -121,21 +121,21 @@ More publications omitted for brevity...
 - Yihua Kang, `Jian Tang`. Chamfer measuring device based on electromagnetic principle. [[Web]](http://www.wanfangdata.com.cn/details/detail.do?_type=patent&id=CN201921137073.X)
 - Jianbo Wu, Jie Wang, Hui Fang, `Jian Tang`. A steel pipe pulse magnetization magnetic flux leakage testing device. [[Web]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2016&filename=CN105334260A&v=) 
 
-<span class='anchor' id='-honors'></span>
+<span class='anchor' id='honors'></span>
 
 # 🏅 Honors and Awards
 - *2015.11* Won `First Prize` in the 14th "Challenge Cup" National College Students' Extracurricular Academic Science and Technology Works Competition
 - *2015.06* Won `First Prize` in the 13th "Challenge Cup" Sichuan College Students' Extracurricular Academic Science and Technology Works Competition [[News]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)  
 - *2014.12* Won `First Prize` in the 4th National College Students' Engineering Training Comprehensive Ability Competition (Sichuan Division)
 
-<span class='anchor' id='-conferences'></span>
+<span class='anchor' id='conferences'></span>
 
 # 🏛️ Academic Conferences
 - *2021.10*, National Electromagnetic Nondestructive Testing Technology Seminar & 11th 4th Plenary Meeting of Electromagnetic Professional Technology Conference of China Society of Mechanical Engineering NDT Branch, Xi'an, Shaanxi, Invited Talk
 - *2019.09*, 19th International Symposium on Applied Electromagnetics and Mechanics (ISEM 2019), Nanjing, Jiangsu, Poster
 - *2017.10*, 6th China International Pipeline Conference (CIPC 2017), Langfang, Hebei
 
-<span class='anchor' id='-internships'></span>
+<span class='anchor' id='internships'></span>
 
 # 💻 Work Experience & Internships
 - *2018.05 - 2020.02*, Chongqing Yangtze Bearing Co., Ltd., Chongqing
