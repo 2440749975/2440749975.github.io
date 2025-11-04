@@ -1,0 +1,62 @@
+/* Language Switcher Styles - 语言切换器样式 */
+
+.language-switcher {
+  text-align: right;
+  padding: 12px 0;
+  margin-bottom: 20px;
+  margin-top: -10px;
+  font-size: 14px;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.language-switcher .lang-link {
+  color: #52adc8;
+  text-decoration: none;
+  padding: 6px 12px;
+  transition: all 0.3s ease;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.language-switcher .lang-link:hover {
+  background-color: #f0f8ff;
+  color: #2e7d9a;
+}
+
+.language-switcher .lang-link.active {
+  color: #2e7d9a;
+  font-weight: bold;
+  background-color: #e6f3f7;
+}
+
+.language-switcher .separator {
+  color: #d1d5da;
+  margin: 0 8px;
+  font-weight: 300;
+}
+
+/* Mobile responsive - 移动端响应式 */
+@media (max-width: 768px) {
+  .language-switcher {
+    text-align: center;
+    padding: 10px 0;
+    margin-bottom: 15px;
+    font-size: 13px;
+  }
+  
+  .language-switcher .lang-link {
+    padding: 5px 10px;
+  }
+}
+
+/* Extra small screens */
+@media (max-width: 480px) {
+  .language-switcher {
+    font-size: 12px;
+  }
+  
+  .language-switcher .lang-link {
+    padding: 4px 8px;
+  }
+}
+
