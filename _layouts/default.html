@@ -32,10 +32,31 @@ layout: compress
 
     {% include scripts.html %}
 
+<!-- 不蒜子浏览量统计 -->
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
 <div class="footer_site">
 <hr/>
+<!-- 浏览量统计 -->
+<div class="footer_stats" style="text-align: center; margin-bottom: 10px; color: #666; font-size: 0.9em;">
+  {% if page.url == "/en/" or page.url == "/en/index.html" %}
+    <span id="busuanzi_container_site_pv" style="display: inline-block; margin-right: 15px;">
+      👁️ Total Views: <span id="busuanzi_value_site_pv"></span>
+    </span>
+    <span id="busuanzi_container_site_uv" style="display: inline-block;">
+      👤 Total Visitors: <span id="busuanzi_value_site_uv"></span>
+    </span>
+  {% else %}
+    <span id="busuanzi_container_site_pv" style="display: inline-block; margin-right: 15px;">
+      👁️ 总访问量: <span id="busuanzi_value_site_pv"></span> 次
+    </span>
+    <span id="busuanzi_container_site_uv" style="display: inline-block;">
+      👤 总访客数: <span id="busuanzi_value_site_uv"></span> 人
+    </span>
+  {% endif %}
+</div>
 <div class="footer_copyright">
-  © 2022 华中大 · 唐健 | 基于&nbsp
+  © 2023 华中科技大学 · 唐健 | 基于&nbsp
   <a class="page_a"  href="https://github.com/RayeRen/acad-homepage.github.io">
   acad
   </a>&nbsp模板
