@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "唐健"
 description              : "电磁无损检测"
-repository               : "2440749975/testhaib.github.io"
+repository               : "2440749975/2440749975.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -161,6 +161,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
 
 
