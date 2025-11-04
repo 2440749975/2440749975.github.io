@@ -43,7 +43,7 @@ redirect_from:
 
 ### 英文
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='/images/sensors2022.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Jian Tang`, Rongbiao Wang, Gongzhe Qiu, Yu Hu, Yihua Kang. Mechanism of magnetic flux leakage detection method based on the slotted ferromagnetic lift-off layer. *Sensors*, 2022, 22(9): 3587. (JCR:Q2; IF:3.847)  
@@ -52,7 +52,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sens. Actuators Phys. 2021</div><img src='images/sna2021.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sens. Actuators Phys. 2021</div><img src='/images/sna2021.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Jian Tang`, Rongbiao Wang, Bocheng Liu, Yihua Kang. A novel magnetic flux leakage method based on the ferromagnetic lift-off layer with through groove. *Sensors and Actuators A: Physical*. 2021: 113091. (JCR:Q1; IF:4.291)  
@@ -61,7 +61,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Int. J. Appl. Electrom. 2020</div><img src='images/ijaem2020.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Int. J. Appl. Electrom. 2020</div><img src='/images/ijaem2020.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Jian Tang`, Rongbiao Wang, Jikai Zhang, Yihua Kang. The influence of magnetic head’s pose on magnetic flux leakage detection. *International Journal of Applied Electromagnetics and Mechanics*. 2020, 64(1–4): 493–500. (JCR:Q4; IF:0.536)  
